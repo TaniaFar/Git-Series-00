@@ -19,3 +19,6 @@ Au début, l'installation m'a paru compliquée, mais voir mon premier graphique 
 
 Mon objectif est de devenir autonome avec ces outils pour mes futurs projets, mon stage, et ma carrière dans l'ingénierie biomédicale.
 
+## Une image de mon ordinateur
+
+![Écran de planification d'une chirurgie du genou](images/19.png)
