@@ -6,5 +6,5 @@ Avant ce cours, je n'avais jamais utilisé Git ni GitHub : je découvre ces outi
 J'ai hâte d'en apprendre davantage sur Git et GitHub, car ces outils me seront utiles pour organiser mes projets et collaborer avec d'autres personnes.
 
 ## Une image
-Illustration de l'ingénierie biomédicale(https://www.ucf.edu/wp-content/blogs.dir/20/files/2023/02/Biomedical-Engineering.jpg)
+   ![Illustration de l'ingénierie biomédicale](https://www.ucf.edu/wp-content/blogs.dir/20/files/2023/02/Biomedical-Engineering.jpg)
 
