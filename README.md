@@ -22,3 +22,15 @@ Mon objectif est de devenir autonome avec ces outils pour mes futurs projets, mo
 ## Une image de mon ordinateur
 
 ![Écran de planification d'une chirurgie du genou](images/19.png)
+
+## Ce que j'ai appris
+
+ J'ai compris qu'un dépôt existe à deux endroits : en ligne sur GitHub et sur mon ordinateur, grâce au clonage.
+J'ai appris à créer une branche (readme) pour travailler sans modifier la branche principale (main).
+À chaque modification, j'ai fait un commit avec un petit message pour expliquer ce que j'avais changé.
+
+Ensuite, j'ai utilisé push pour envoyer mon travail sur GitHub et vérifier le résultat, ce qui m'a permis de corriger une image qui ne s'affichait pas.
+J'ai aussi découvert le Markdown pour écrire des titres et ajouter des images, depuis internet ou depuis mon ordinateur.
+
+## Conclusion
+Ce travail m'a pris environ deux heures.
